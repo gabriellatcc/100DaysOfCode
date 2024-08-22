@@ -77,11 +77,11 @@ public class RobbieAndGloria
         {
             if(primo==true)
             {
-               System.out.println("You’re a coastal aircraft, Robbie, a large silver aircraft.");
+               System.out.println("Você e so uma sucata prateada, Robbie, um aviaozao enferrujado");
             }
             else
             {
-               System.out.println("Bad boy! I’ll hit you.");
+               System.out.println("Robo mala! Eu vou te bater!");
             }                
         }
         public static void main(String[] args)
