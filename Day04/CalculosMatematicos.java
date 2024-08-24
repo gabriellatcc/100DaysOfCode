@@ -56,7 +56,7 @@ public class CalculosMatematicos
         else
         {
             maior=r3;
-            System.out.println("Caelos ganhou");
+            System.out.println("Carlos ganhou");
         }
         }
         public static void main(String[] args)
