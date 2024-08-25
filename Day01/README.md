@@ -1,5 +1,5 @@
-<h2> Calculadora de duração de jogo | Game duration calculator</h2>
-<p><strong>📌🎮 Dia 01 | Day 01</strong></p>
+<h2>🎮 Calculadora de duração de jogo | Game duration calculator</h2>
+<p><strong>📌 Dia 01 | Day 01</strong></p>
 <table>
   <tr>
     <td>
