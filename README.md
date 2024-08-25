@@ -9,3 +9,12 @@
 <p>I am using Beecrowd problems to train my coding skills and improve my logical thinking in algorithms. I aim to enhance my problem-solving abilities through this challenge.
 </p>
 <p>Corrections are welcome! 😄</p>
+
+<h2>📌 Meus códigos diários e descrições sobre o que eles fazem | My diary codes and descriptions about what they do:</h2>
+<ol>
+  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Day01">🎮 Calculadora de duração de jogo | Game duration calculator</a></li>
+  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Day02">🤖 Brincadeira de Robbie e Glória | Robbie and Gloria's game</a></li>
+  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Day03">📆 Diferença de Data | Data difference</a></li>
+  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Day04">🧮 Cálculos Matemáticos | Mathematical Calculations</a></li>
+  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Day05">🏃 Recorde de maratona | Marathon Record</a></li>
+</ol>
