@@ -1,4 +1,4 @@
-<h2>📏 Calculo perímetro de cercamento | Fencing perimeter Calculation?</h2>
+<h2>📏 Calculo perímetro de cercamento | Fencing perimeter Calculation</h2>
 
 <p><strong>📌 Dia 06 | Day 06</strong></p>
 <table>
