@@ -17,4 +17,5 @@
   <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Day03">📆 Diferença de Data | Data difference</a></li>
   <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Day04">🧮 Cálculos Matemáticos | Mathematical Calculations</a></li>
   <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Day05">🏃 Recorde de maratona | Marathon Record</a></li>
+  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Day06">📏 Calculo perímetro de cercamento | Fencing perimeter Calculation</a></li>
 </ol>
