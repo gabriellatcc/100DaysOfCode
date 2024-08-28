@@ -18,4 +18,5 @@
   <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Day04">🧮 Cálculos Matemáticos | Mathematical Calculations</a></li>
   <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Day05">🏃 Recorde de maratona | Marathon Record</a></li>
   <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Day06">📏 Calculo perímetro de cercamento | Fencing perimeter Calculation</a></li>
+  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Day07">🏦 Simulador de Banco Simples | Simple bank simulator</a></li>
 </ol>
