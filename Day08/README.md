@@ -11,3 +11,5 @@
     </td>
   </tr>
 </table>
+O problema era o seguinte: | The problem was as follows:
+<a href="https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem">HackerRank | Java Stdin and Stdout I</a>
