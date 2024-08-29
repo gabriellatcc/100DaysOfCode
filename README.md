@@ -12,11 +12,13 @@
 
 <h2>📌 Meus códigos diários e descrições sobre o que eles fazem | My diary codes and descriptions about what they do:</h2>
 <ol>
-  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Day01">🎮 Calculadora de duração de jogo | Game duration calculator</a></li>
-  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Day02">🤖 Brincadeira de Robbie e Glória | Robbie and Gloria's game</a></li>
-  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Day03">📆 Diferença de Data | Data difference</a></li>
-  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Day04">🧮 Cálculos Matemáticos | Mathematical Calculations</a></li>
-  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Day05">🏃 Recorde de maratona | Marathon Record</a></li>
-  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Day06">📏 Calculo perímetro de cercamento | Fencing perimeter Calculation</a></li>
-  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Day07">🏦 Simulador de Banco Simples | Simple bank simulator</a></li>
+  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day01">🎮 Calculadora de duração de jogo | Game duration calculator</a></li>
+  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day02">🤖 Brincadeira de Robbie e Glória | Robbie and Gloria's game</a></li>
+  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day03">📆 Diferença de Data | Data difference</a></li>
+  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day04">🧮 Cálculos Matemáticos | Mathematical Calculations</a></li>
+  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day05">🏃 Recorde de maratona | Marathon Record</a></li>
+  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day06">📏 Calculo perímetro de cercamento | Fencing perimeter Calculation</a></li>
+  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day07">🏦 Simulador de Banco Simples | Simple bank simulator</a></li>
+  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day08">🔐 Getters e Setters em Java | Getters and Setters in Java</a></li>
+  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day09">null</a></li>
 </ol>
