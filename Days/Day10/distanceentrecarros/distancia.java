@@ -23,7 +23,7 @@ class Distancia
     public void setDistancia(int distancia)//parametro: o valor da distância em quilômetros a ser definido
     {
         if(distancia<1)
-        {//se a distancia for menor que 1
+        {
             throw new IllegalArgumentException("A distância tem que ser maior que 1!");
         }
         this.distancia = distancia;
@@ -32,10 +32,10 @@ class Distancia
     //getter p minutos: retorna o valor atual dos minutos calculados
     public int getMinutos()
     {
-        return minutos; // retorna o valor dos minutos
+        return minutos;
     }
     //setter p minutos: define o valor dos minutos calculados
-    private void setMinutos(int minutos)//o valor dos minutos a ser definido
+    private void setMinutos(int minutos)
     {
         this.minutos=minutos;
     }
