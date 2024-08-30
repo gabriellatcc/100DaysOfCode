@@ -17,8 +17,9 @@
   <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day03">📆 Diferença de Data | Data difference</a></li>
   <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day04">🧮 Cálculos Matemáticos | Mathematical Calculations</a></li>
   <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day05">🏃 Recorde de maratona | Marathon Record</a></li>
-  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day06">📏 Calculo perímetro de cercamento | Fencing perimeter Calculation</a></li>
+  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day06">📏 Cálculo perímetro de cercamento | Fencing perimeter Calculation</a></li>
   <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day07">🏦 Simulador de Banco Simples | Simple bank simulator</a></li>
   <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day08">🔐 Getters e Setters em Java | Getters and Setters in Java</a></li>
   <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day09">🎓Análise de nota de estudantes | Studants grades analyses</a></li>
+  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day10">🚙 Cálculo de distância entre dois carros | Distance between two cars calculation</a></li>
 </ol>
