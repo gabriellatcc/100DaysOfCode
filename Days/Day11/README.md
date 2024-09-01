@@ -1,4 +1,4 @@
-<h1>Resumo dos conceitos aprendidos (<sup><sub><b><span style="font-size: 10px; font-family: Arial, sans-serif;">BR</span></b></sub></sup></h1>
+<h1>Resumo dos conceitos aprendidos (<sup><sub><b><span style="font-size: 10px; font-family: Arial, sans-serif;">BR</span></b></sub></sup>)</h1>
 <h2>Resumo</h2>
 <p>No décimo primeiro dia do desafio 100DaysOfCode, dediquei meu tempo a revisar e consolidar os conceitos que já aprendi até agora na linguagem Java. Fiz um resumo no caderno para me ajudar a fixar melhor o conteúdo. Este resumo será futuramente transformado em um documento HTML para facilitar a consulta.</p>
 
