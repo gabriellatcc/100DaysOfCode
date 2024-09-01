@@ -1,5 +1,4 @@
-<h1>Resumo dos Conceitos Aprendidos</h1><sup><sub><b><span style="font-size: 15px; font-family: Arial, sans-serif;">BR</span></b></sub></sup></h1>
-
+<h1>Resumo dos conceitos aprendidos (<sup><sub><b><span style="font-size: 10px; font-family: Arial, sans-serif;">BR</span></b></sub></sup></h1>
 <h2>Resumo</h2>
 <p>No décimo primeiro dia do desafio 100DaysOfCode, dediquei meu tempo a revisar e consolidar os conceitos que já aprendi até agora na linguagem Java. Fiz um resumo no caderno para me ajudar a fixar melhor o conteúdo. Este resumo será futuramente transformado em um documento HTML para facilitar a consulta.</p>
 
@@ -16,8 +15,7 @@
 <h2>Próximos Passos</h2>
 <p>Com o resumo concluído, estou preparada para continuar avançando nos estudos e implementar os conhecimentos na prática. Nos próximos dias, pretendo aprofundar ainda mais nos conceitos de orientação a objetos e na implementação de interfaces e heranças.</p>
 
-<h1>Summary of Learned Concepts</h1><sup><sub><b><span style="font-size: 15px; font-family: Arial, sans-serif;">US</span></b></sub></sup></h1>
-
+<h1>Summary of Learned Concepts(<sup><sub><b><span style="font-size: 10px; font-family: Arial, sans-serif;">US</span></b></sub></sup>)</h1>
 <h2>Summary</h2>
 <p>On the eleventh day of the 100DaysOfCode challenge, I dedicated my time to reviewing and consolidating the concepts I have learned so far in the Java programming language. I made notes in my notebook to help solidify the content. This summary will eventually be transformed into an HTML document for easier reference.</p>
 
