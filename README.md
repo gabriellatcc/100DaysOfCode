@@ -23,5 +23,6 @@
   <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day09">🎓Análise de nota de estudantes | Studants grades analyses</a></li>
   <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day10">🚙 Cálculo de distância entre dois carros | Distance between two cars calculation</a></li>
   <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day11">Resumo dos Conceitos Aprendidos | Summary of Learned Concepts</a></li>
-  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day10">💸 Aumentando o salário | Increasing the salary</a></li>
+  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day12">💸 Aumentando o salário | Increasing the salary</a></li>
+  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day13">🎄 Montando uma árvore de natal | Setting up a Christmas tree</a></li>
 </ol>
