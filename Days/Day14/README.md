@@ -1,4 +1,4 @@
-<h2>🔐 Validador de Senhas | Password Validator</h2>
+<h2>🔑 Validador de Senhas | Password Validator</h2>
 
 <p><strong>📌 Dia 14 | Day 14</strong></p>
 <table>
