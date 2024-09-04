@@ -25,5 +25,6 @@
   <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day11">Resumo dos Conceitos Aprendidos | Summary of Learned Concepts</a></li>
   <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day12">💸 Aumentando o salário | Increasing the salary</a></li>
   <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day13">🎄 Montando uma árvore de natal | Setting up a Christmas tree</a></li>
-  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day14">🔐 Validador de Senhas | Password Validator</a></li>
+  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day14">🔑 Validador de Senhas | Password Validator</a></li>
+  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day15">🔢 Gerador de RA com Base em Nome | RA Generator Based on Name</a></li>
 </ol>
