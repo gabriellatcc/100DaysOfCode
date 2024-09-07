@@ -16,5 +16,5 @@
   </tr>
 </table>
 
-<h4>O problema era o seguinte | The problem was as follows:</h4>
+<h4>O problema era o seguinte | The problem was as follows: </h4>
 <a href="https://www.beecrowd.com.br/judge/pt/problems/view/1277">Beecrowd | 1277</a>
