@@ -27,4 +27,7 @@
   <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day13">🎄 Montando uma árvore de natal | Setting up a Christmas tree</a></li>
   <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day14">🔑 Validador de Senhas | Password Validator</a></li>
   <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day15">🔢 Gerador de RA com Base em Senha | RA Generator Based on Password</a></li>
+  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day16">🔐 Validador de Senha Forte | Strong Password Validator</a></li>
+  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day17">🧑‍🎓 Calculando a frequência de estudantes | Calculating students' attendance</a></li>
+  
 </ol>
