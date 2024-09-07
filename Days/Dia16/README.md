@@ -12,3 +12,6 @@
   </tr>
 </table>
 
+
+<h4>O problema era o seguinte | The problem was as follows:</h4>
+<a href="https://www.hackerrank.com/challenges/strong-password/problem">Hacker Rank | Strong Password</a>
