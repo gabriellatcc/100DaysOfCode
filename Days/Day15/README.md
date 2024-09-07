@@ -11,3 +11,6 @@
     </td>
   </tr>
 </table>
+
+<h4>O problema era o seguinte | The problem was as follows:</h4>
+<a href="https://www.beecrowd.com.br/judge/pt/problems/view/12690">Beecrowd | 2690</a>
