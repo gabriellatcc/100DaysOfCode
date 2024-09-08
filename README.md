@@ -29,5 +29,6 @@
   <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day15">🔢 Gerador de RA com Base em Senha | RA Generator Based on Password</a></li>
   <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day16">🔐 Validador de Senha Forte | Strong Password Validator</a></li>
   <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day17">🧑‍🎓 Calculando a frequência de estudantes | Calculating students' attendance</a></li>
-  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day17">🗣️ Analisando o idioma falado em grupos | Analyzing the spoken language in groups</a></li>
+  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day18">🗣️ Analisando o idioma falado em grupos | Analyzing the spoken language in groups</a></li>
+  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day19">💡 Calculando o número de LEDs necessários | Calculating the number of LEDs requireds</a></li>
 </ol>
