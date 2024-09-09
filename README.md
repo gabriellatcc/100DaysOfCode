@@ -31,4 +31,5 @@
   <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day17">🧑‍🎓 Calculando a frequência de estudantes | Calculating students' attendance</a></li>
   <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day18">🗣️ Analisando o idioma falado em grupos | Analyzing the spoken language in groups</a></li>
   <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day19">💡 Calculando o número de LEDs necessários | Calculating the number of LEDs requireds</a></li>
+  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day20">📝 Contador de Palavras | Word Counter</a></li>
 </ol>
