@@ -1,5 +1,5 @@
 <h2>📆 Diferença de Data (Data difference)</h2>
-<p><strong>📌 Dia 02 | Day 02</strong></p>
+<p><strong>📌 Dia 03 | Day 03</strong></p>
 
 <h3>Português</h3>
 <p>Mais uma vez utilizando o beecrowd, o problema era o 1619 no qual Joana queria saber quantos dias se passaram desde uma postagem. O objetivo era calcular a diferença em dias entre duas datas distintas. O usuário insere o número de testes desejados e as duas datas a serem comparadas. O programa usa as bibliotecas `java.time.LocalDate` e `java.time.temporal.ChronoUnit` para simplificar o cálculo, evitando a necessidade de conversão manual de anos e meses em dias. O resultado da diferença em dias é exibido como saída.</p>
