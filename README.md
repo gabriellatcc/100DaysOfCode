@@ -10,26 +10,27 @@
 </p>
 <p>Corrections are welcome! 😄</p>
 
-<h2>📌 Meus códigos diários e descrições sobre o que eles fazem | My diary codes and descriptions about what they do:</h2>
+<h2>📌 Meus códigos diários e descrições sobre o que eles fazem:</h2>
 <ol>
-  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day01">🎮 Calculadora de duração de jogo | Game duration calculator</a></li>
-  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day02">🤖 Brincadeira de Robbie e Glória | Robbie and Gloria's game</a></li>
-  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day03">📆 Diferença de Data | Data difference</a></li>
-  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day04">🧮 Cálculos Matemáticos | Mathematical Calculations</a></li>
-  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day05">🏃 Recorde de maratona | Marathon Record</a></li>
-  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day06">📏 Cálculo perímetro de cercamento | Fencing perimeter Calculation</a></li>
-  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day07">🏦 Simulador de Banco Simples | Simple bank simulator</a></li>
-  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day08">🔐 Getters e Setters em Java | Getters and Setters in Java</a></li>
-  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day09">🎓Análise de nota de estudantes | Studants grades analyses</a></li>
-  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day10">🚙 Cálculo de distância entre dois carros | Distance between two cars calculation</a></li>
-  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day11">Resumo dos Conceitos Aprendidos | Summary of Learned Concepts</a></li>
-  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day12">💸 Aumentando o salário | Increasing the salary</a></li>
-  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day13">🎄 Montando uma árvore de natal | Setting up a Christmas tree</a></li>
-  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day14">🔑 Validador de Senhas | Password Validator</a></li>
-  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day15">🔢 Gerador de RA com Base em Senha | RA Generator Based on Password</a></li>
-  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day16">🔐 Validador de Senha Forte | Strong Password Validator</a></li>
-  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day17">🧑‍🎓 Calculando a frequência de estudantes | Calculating students' attendance</a></li>
-  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day18">🗣️ Analisando o idioma falado em grupos | Analyzing the spoken language in groups</a></li>
-  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day19">💡 Calculando o número de LEDs necessários | Calculating the number of LEDs requireds</a></li>
-  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day20">📝 Contador de Palavras | Word Counter</a></li>
+  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day01">🎮 Calculadora de duração de jogo (Game duration calculator)</a></li>
+  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day02">🤖 Brincadeira de Robbie e Glória (Robbie and Gloria's game)</a></li>
+  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day03">📆 Diferença de data (Data difference)</a></li>
+  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day04">🧮 Cálculos matemáticos (Mathematical calculations)</a></li>
+  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day05">🏃 Recorde de maratona (Marathon record)</a></li>
+  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day06">📏 Cálculo perímetro de cercamento (Fencing perimeter calculation)</a></li>
+  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day07">🏦 Simulador de banco simples (Simple bank simulator)</a></li>
+  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day08">🔐 Getters e Setters em Java (Getters and Setters in Java)</a></li>
+  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day09">🎓Análise de nota de estudantes (Studants grades analyses)</a></li>
+  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day10">🚙 Cálculo de distância entre dois carros (Distance between two cars calculation)</a></li>
+  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day11">Resumo dos Conceitos Aprendidos (Summary of learned concepts)</a></li>
+  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day12">💸 Aumentando o salário (Increasing the salary)</a></li>
+  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day13">🎄 Montando uma árvore de natal (Setting up a Christmas tree)</a></li>
+  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day14">🔑 Validador de senhas (Password validator)</a></li>
+  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day15">🔢 Gerador de RA com base em senha (RA generator based on password)</a></li>
+  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day16">🔐 Validador de Senha Forte (Strong Password Validator)</a></li>
+  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day17">🧑‍🎓 Calculando a frequência de estudantes (Calculating students' attendance)</a></li>
+  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day18">🗣️ Analisando o idioma falado em grupos (Analyzing the spoken language in groups)</a></li>
+  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day19">💡 Calculando o número de LEDs necessários (Calculating the number of LEDs requireds)</a></li>
+  <li><a href="https://github.com/gabriellatcc/100DaysOfCode/tree/main/Days/Day20">📝 Contador de palavras (Word counter)</a></li>
+  <li>Ainda em desenvolvimento (It is still in development)</li>
 </ol>
