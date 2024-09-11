@@ -1,4 +1,4 @@
-<h2>🔐 Getters e Setters em Java | Getters and Setters in Java</h2>
+<h2>🔐 Getters e Setters em Java (Getters and Setters in Java)</h2>
 
 <p><strong>📌 Dia 08 | Day 08</strong></p>
 
