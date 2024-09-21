@@ -1,5 +1,4 @@
 package main;
-
 class Classe {
     private int[][] produto;
     private double[] precos;
@@ -30,3 +29,5 @@ class Classe {
         return soma/precos.length;
     }
 }
+
+
